@@ -1,0 +1,705 @@
+Manifest-Version: 1.0
+Built-By: Signflinger
+Created-By: Android Gradle 8.10.1
+
+Name: AndroidManifest.xml
+SHA1-Digest: m95C7FlE9dJGiiXcb1lmIvSna58=
+
+Name: META-INF/com/android/build/gradle/app-metadata.properties
+SHA1-Digest: 7S9BgpenoGnK5NGAIsx+s8SiMAE=
+
+Name: META-INF/version-control-info.textproto
+SHA1-Digest: 0HzIbfmUxOr2Z+kmEW99QF+eehc=
+
+Name: classes.dex
+SHA1-Digest: ggAXAhJz/Iq5VXmrrz25QSjYKF0=
+
+Name: data/data/com.termux/files/home/LunaLibrary/assets/readme.txt
+SHA1-Digest: U1aDdClJZa8vBHBC+qzAQGFNtPc=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/__pyca
+ che__/requests_core.cpython-312.pyc
+SHA1-Digest: 5Lp1l2jOeFYP7cIpnKdgoHd291w=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/certif
+ i/__init__.py
+SHA1-Digest: amKL98ssb5RgUbN8zA0ZiBSuOps=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/certif
+ i/__main__.py
+SHA1-Digest: 8JxLpefuN93r6RTe+dlxUsteuFY=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/certif
+ i/__pycache__/__init__.cpython-312.pyc
+SHA1-Digest: 28sB06l5MtJK0nFnB+xoDXwsQiY=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/certif
+ i/__pycache__/core.cpython-312.pyc
+SHA1-Digest: EOJ+tyXKRR+XDJB2CzJaff1p4J4=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/certif
+ i/cacert.pem
+SHA1-Digest: NaeDej8blggHv0axyV7CJ5ImKEY=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/certif
+ i/core.py
+SHA1-Digest: 9AQh1UG2H/jWR5hNfXDcQkwiBOE=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/certif
+ i/py.typed
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/certif
+ i/tests/__init__.py
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/certif
+ i/tests/test_certify.py
+SHA1-Digest: KfC7mOgeD4XXdkTMnUikGXINzwE=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/charse
+ t_normalizer/__init__.py
+SHA1-Digest: d9WvdTXlTqpkrUCOf8/ybXkFnrE=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/charse
+ t_normalizer/__main__.py
+SHA1-Digest: ca3pTWoKnCO+VwMGCZOOOXavado=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/charse
+ t_normalizer/__pycache__/__init__.cpython-312.pyc
+SHA1-Digest: UtSiCYGjiE1+bvky28dQvw/yL30=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/charse
+ t_normalizer/__pycache__/api.cpython-312.pyc
+SHA1-Digest: QNQur7ghPILCIpLZIn9cN5zdePw=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/charse
+ t_normalizer/__pycache__/cd.cpython-312.pyc
+SHA1-Digest: YImmlilZCQOQeP/WKxoHatSTWJQ=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/charse
+ t_normalizer/__pycache__/constant.cpython-312.pyc
+SHA1-Digest: XH+tAxZX8uhCq+hZFDBAcWUhOwc=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/charse
+ t_normalizer/__pycache__/legacy.cpython-312.pyc
+SHA1-Digest: +Zf9YkNs1EB105aJCsDM8sULQyI=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/charse
+ t_normalizer/__pycache__/md.cpython-312.pyc
+SHA1-Digest: CeGIG5np9F2Wj3eI3Pwy2CPCn7U=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/charse
+ t_normalizer/__pycache__/models.cpython-312.pyc
+SHA1-Digest: Ib9fQ3gBi3ZKA5slbxoMBnGCWWg=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/charse
+ t_normalizer/__pycache__/utils.cpython-312.pyc
+SHA1-Digest: aTuUhKSgqkUg1C00gyZ+jqLphD4=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/charse
+ t_normalizer/__pycache__/version.cpython-312.pyc
+SHA1-Digest: A2Q+zEch6binwZbIPJgR+TDnbd8=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/charse
+ t_normalizer/api.py
+SHA1-Digest: jzVH4ObDhNd900wuQScHJMV7mpU=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/charse
+ t_normalizer/cd.py
+SHA1-Digest: b7wuYACZ+df/wfJEYkMlscwq0pc=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/charse
+ t_normalizer/cli/__init__.py
+SHA1-Digest: mWxze9h3KLu6joLacT9HaVZtrfU=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/charse
+ t_normalizer/cli/__main__.py
+SHA1-Digest: xDqKBb3aIYezuSYaCcZs2jBMj4k=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/charse
+ t_normalizer/constant.py
+SHA1-Digest: t9PI8qTJ42iy3MB7qh+WeBxSmpo=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/charse
+ t_normalizer/legacy.py
+SHA1-Digest: 4QoUaCARHVKn9whinyE8RfPFWUo=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/charse
+ t_normalizer/md.py
+SHA1-Digest: m9jltvW9ffChMDuWamVQHs0YY8o=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/charse
+ t_normalizer/models.py
+SHA1-Digest: JrF7nO6CSN3uH72fGIkHTe9oslc=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/charse
+ t_normalizer/py.typed
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/charse
+ t_normalizer/utils.py
+SHA1-Digest: wbycK94LhPaRmJKtu5HY5jA32NA=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/charse
+ t_normalizer/version.py
+SHA1-Digest: PJ20iAUlezmmG/guB5318GdA7X4=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/idna/_
+ _init__.py
+SHA1-Digest: d+oWXize+KFMhvVIBlm0UVeDoLs=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/idna/_
+ _pycache__/__init__.cpython-312.pyc
+SHA1-Digest: PDglxmA0SnOoAwkXkVB1MWEOQ8I=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/idna/_
+ _pycache__/core.cpython-312.pyc
+SHA1-Digest: +4WvHewI6JNqo+R1m4dETAmH5vY=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/idna/_
+ _pycache__/idnadata.cpython-312.pyc
+SHA1-Digest: w5GdZsZLdGxSdkvtjBp5JeTNEHE=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/idna/_
+ _pycache__/intranges.cpython-312.pyc
+SHA1-Digest: z1qjP7Rb/7YPhiBQNliXeCLsDws=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/idna/_
+ _pycache__/package_data.cpython-312.pyc
+SHA1-Digest: Vy0bqCcPznzRAQdp2Emf5daptb8=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/idna/c
+ odec.py
+SHA1-Digest: hp5Oc3baFw+e+BVGNQ6o0Jh8Lt8=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/idna/c
+ ompat.py
+SHA1-Digest: ErzZH8zwH5wRmUcNSSAz9/4w3Rg=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/idna/c
+ ore.py
+SHA1-Digest: uFFRQaiZbc55zcpKL3wAU1iSQro=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/idna/i
+ dnadata.py
+SHA1-Digest: BGWd1olYyAaC3EEylkzri0Raa2o=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/idna/i
+ ntranges.py
+SHA1-Digest: CicbH3UZ6tjTEeozOkV8+HyxO3Q=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/idna/p
+ ackage_data.py
+SHA1-Digest: J0kwqSIrdKkxkuAUH7aLP9K3G+0=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/idna/p
+ y.typed
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/idna/u
+ ts46data.py
+SHA1-Digest: LUQnHcwt5k7rJGDzFkGAxc3yAZM=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/reques
+ ts/__init__.py
+SHA1-Digest: OrjR+44+ovGEjz8ExM/twMKTdhw=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/reques
+ ts/__pycache__/__init__.cpython-312.pyc
+SHA1-Digest: pgqxJdnQUf3m22GntOj/f+Vgd6c=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/reques
+ ts/__pycache__/__version__.cpython-312.pyc
+SHA1-Digest: h1BO5ZrJpHpG7LQcIaehFhIJBB0=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/reques
+ ts/__pycache__/_internal_utils.cpython-312.pyc
+SHA1-Digest: +lWjNnuSwBcn+MPMtWC7MsPwUd4=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/reques
+ ts/__pycache__/adapters.cpython-312.pyc
+SHA1-Digest: fYbKo8pri6Ck8NECTlf0F+4tiCc=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/reques
+ ts/__pycache__/api.cpython-312.pyc
+SHA1-Digest: m2kUdQpVIiazcOw/akhbI/3Db5g=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/reques
+ ts/__pycache__/auth.cpython-312.pyc
+SHA1-Digest: SVjGB3lCJ8syyE4zZU2Jsz9Ef/w=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/reques
+ ts/__pycache__/certs.cpython-312.pyc
+SHA1-Digest: TVo1HVKdZLyLeJOp2h3oEADpxyU=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/reques
+ ts/__pycache__/compat.cpython-312.pyc
+SHA1-Digest: CXrQbrf3ChF5MNodppFUcSobYhk=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/reques
+ ts/__pycache__/cookies.cpython-312.pyc
+SHA1-Digest: Zu9jvmu+Y6TArH1Ks4NPSjTXqXY=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/reques
+ ts/__pycache__/exceptions.cpython-312.pyc
+SHA1-Digest: 6k6MkKezq3WPOotW9Zvg5dxd4V8=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/reques
+ ts/__pycache__/hooks.cpython-312.pyc
+SHA1-Digest: yQb1Ar5ACdJefzw2PggrC/ljVmo=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/reques
+ ts/__pycache__/models.cpython-312.pyc
+SHA1-Digest: /Y4qwBPI2jsIaMwXP4qV7kpc5S8=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/reques
+ ts/__pycache__/packages.cpython-312.pyc
+SHA1-Digest: aZo2GQx2CqeKUCK70PKzPx6PAv0=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/reques
+ ts/__pycache__/sessions.cpython-312.pyc
+SHA1-Digest: pR7OropBuTCpmbWA9jHQW0X3ozw=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/reques
+ ts/__pycache__/status_codes.cpython-312.pyc
+SHA1-Digest: m2PXOnjQ6RQhNdQJH4bxPuFdLIQ=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/reques
+ ts/__pycache__/structures.cpython-312.pyc
+SHA1-Digest: adfCqE1hHMmvjoJWV0jHjdW/hFA=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/reques
+ ts/__pycache__/utils.cpython-312.pyc
+SHA1-Digest: PHR8M4QPGLAg7jObbsGnqKT7iT8=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/reques
+ ts/__version__.py
+SHA1-Digest: mFUbe1Q35yXtTtYx3JxEiwQy/80=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/reques
+ ts/_internal_utils.py
+SHA1-Digest: g6hhKn/mdHe11hqMQ1jSLVsJn34=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/reques
+ ts/adapters.py
+SHA1-Digest: jJUrqn0+UIdgOLNi5xKAfGZaO7w=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/reques
+ ts/api.py
+SHA1-Digest: eD2AK+Tg72SDBjowQ8BBPCAaZMQ=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/reques
+ ts/auth.py
+SHA1-Digest: TiqEvGCmVe9HjHitvGtD+udir58=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/reques
+ ts/certs.py
+SHA1-Digest: pFDmzRGASQ/TdvWHS3IKo68pS/U=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/reques
+ ts/compat.py
+SHA1-Digest: tnC3xIMm+OYnSp2fS2+7fBihSSQ=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/reques
+ ts/cookies.py
+SHA1-Digest: CviYd+dlPOFHTkkDLmFb0eLbw/o=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/reques
+ ts/exceptions.py
+SHA1-Digest: nRK551q0NxYpHvm2BccxTUFQKmw=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/reques
+ ts/help.py
+SHA1-Digest: Xy5qZlaees0woQWIpDbY/fvMjOg=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/reques
+ ts/hooks.py
+SHA1-Digest: bCrr5kLWRx5wU0xF4DnfcJsjQ10=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/reques
+ ts/models.py
+SHA1-Digest: QpxER5en4h16Mg7olj/vNhNaUOQ=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/reques
+ ts/packages.py
+SHA1-Digest: PCBeVIAsRlJvAyhA1/f4eE0UW1M=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/reques
+ ts/sessions.py
+SHA1-Digest: RPvjX+lueR207JIErJn8Rh8XgVU=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/reques
+ ts/status_codes.py
+SHA1-Digest: Uw0r0o+P5OQM1AM36GY1NH4Vplw=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/reques
+ ts/structures.py
+SHA1-Digest: tcLHQLn/fSeoOsTIDjrnQaoztb4=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/reques
+ ts/utils.py
+SHA1-Digest: FJyMv0iahAGSK0wcUbI1NdvHyUk=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/reques
+ ts_core.py
+SHA1-Digest: Ejl0hQjHSYu18/UrbDSbx5Oq9T0=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/__init__.py
+SHA1-Digest: VWcH5ureqaAAT1BvXCDQzDVoM5E=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/__pycache__/__init__.cpython-312.pyc
+SHA1-Digest: 3Q//qyie+YYGHtRW4FooQqbcP3M=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/__pycache__/_base_connection.cpython-312.pyc
+SHA1-Digest: jcljR+6uG4EeIrrKphvjDuWiQzk=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/__pycache__/_collections.cpython-312.pyc
+SHA1-Digest: xW9hzqkUAO2299ijxrfbBi1/vz4=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/__pycache__/_request_methods.cpython-312.pyc
+SHA1-Digest: 8BdXisdmhjZbFuIztcT8iWtJwEo=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/__pycache__/_version.cpython-312.pyc
+SHA1-Digest: 0NiGDsU6MBzU9AEw0dOI+kqUONk=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/__pycache__/connection.cpython-312.pyc
+SHA1-Digest: f4wkGO3mEBL0uNI0T0yVnkUevI4=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/__pycache__/connectionpool.cpython-312.pyc
+SHA1-Digest: E0sX5OSXQQ+8dwkXcM2tf9Av4SE=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/__pycache__/exceptions.cpython-312.pyc
+SHA1-Digest: pdcFS+h/Kb4IenVIMHA1xBVh9Nc=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/__pycache__/fields.cpython-312.pyc
+SHA1-Digest: fd+Whh6LHg1BT2UuKKiw/QkaI5g=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/__pycache__/filepost.cpython-312.pyc
+SHA1-Digest: YAKfScmms+iPr7H4qeqCS4Dtl9Y=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/__pycache__/poolmanager.cpython-312.pyc
+SHA1-Digest: UJWlS8LKcxYN4JGfVM+wYTZLwuM=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/__pycache__/response.cpython-312.pyc
+SHA1-Digest: asGpB3IGurvYjTLHgxx+TkpIa4s=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/_base_connection.py
+SHA1-Digest: DztU5+Jnv0DhI4oBB3w9v6oPGrk=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/_collections.py
+SHA1-Digest: 3DMXHyr/JqulByH4gSL/1O4YiJU=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/_request_methods.py
+SHA1-Digest: 94l7PjLSzyee6wPgR9VqV54tdmE=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/_version.py
+SHA1-Digest: 3g6CwPzTV2A7meVIh7HcUttDrqo=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/connection.py
+SHA1-Digest: fsHbvUkE6z38pAIYI4r7hSEPDQc=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/connectionpool.py
+SHA1-Digest: mUdEG/g2N3MoSw5ChaUVlp/4mvM=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/contrib/__init__.py
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/contrib/__pycache__/__init__.cpython-312.pyc
+SHA1-Digest: PUhONhBqutvfENUf9nJl/+HVilk=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/contrib/__pycache__/socks.cpython-312.pyc
+SHA1-Digest: nk0MGEvNe+bvKOl2sLYkxKiQctc=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/contrib/pyopenssl.py
+SHA1-Digest: TyIpPT1rKGQblwoj7Br6hzPgHhk=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/contrib/socks.py
+SHA1-Digest: HL7nOm1lqYsLE3SGKokcPYmstXw=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/exceptions.py
+SHA1-Digest: RoMKLBvzwPVQYv9n5o4JKGPqBAQ=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/fields.py
+SHA1-Digest: 6C/qx28wC7yT64CbJGLTHWVQvbM=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/filepost.py
+SHA1-Digest: 6AvlfsgkROzR5S+5ahMpmK+vx5o=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/poolmanager.py
+SHA1-Digest: /8cWAu1alHwDi7PE5wISIh4cP1s=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/py.typed
+SHA1-Digest: 72D3XZgUyHng0+aQ2+xpvcJksTI=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/response.py
+SHA1-Digest: BXaxV0I34VFjOtDMlqAEbmHyBHw=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/util/__init__.py
+SHA1-Digest: UkYNlrMH48t9pWoYf8LE5ZfePIc=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/util/__pycache__/__init__.cpython-312.pyc
+SHA1-Digest: qTi4+61ppTIXSLzWoJs7hGw9iuc=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/util/__pycache__/connection.cpython-312.pyc
+SHA1-Digest: 2ch4p2kfcehJwc9Awj0Wbmmq4oc=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/util/__pycache__/proxy.cpython-312.pyc
+SHA1-Digest: RugVw4QERHSrs715o0mDsuvN4TE=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/util/__pycache__/request.cpython-312.pyc
+SHA1-Digest: Ma7aLd48NHIZjAl5rD/RM0BRsYc=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/util/__pycache__/response.cpython-312.pyc
+SHA1-Digest: bZmcGEj7+e7fqd5WPbSuZROKRrM=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/util/__pycache__/retry.cpython-312.pyc
+SHA1-Digest: nuYvHxRYwwLpl3c5MPmGOKKkCPk=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/util/__pycache__/ssl_.cpython-312.pyc
+SHA1-Digest: XcipESIR7WBqTeBZmHa07tHpfpQ=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/util/__pycache__/ssl_match_hostname.cpython-312.pyc
+SHA1-Digest: rF9NEr06kUUD2wPFaMbRW/NLlnE=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/util/__pycache__/ssltransport.cpython-312.pyc
+SHA1-Digest: gk7j8v9qvWzeuroRJ7HEQnxGutc=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/util/__pycache__/timeout.cpython-312.pyc
+SHA1-Digest: JORHRGgtpv9eJ2DUsqWfqat1W3M=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/util/__pycache__/url.cpython-312.pyc
+SHA1-Digest: 4zt8EGa7jOVCkzwz1m4CZ/E4KTE=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/util/__pycache__/util.cpython-312.pyc
+SHA1-Digest: /htktTNwdjelAdNr/l7YexYyMj0=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/util/__pycache__/wait.cpython-312.pyc
+SHA1-Digest: +bPsqJeWA7DNpsZTG7ifKUQG+hg=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/util/connection.py
+SHA1-Digest: RDWKyTwtBxnlM0TbcTssL5aN3/Q=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/util/proxy.py
+SHA1-Digest: oQo6WAqf75SvUs834AqZE+D2TaA=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/util/request.py
+SHA1-Digest: 2niVW6F0DdxO5dkS5ypUygosb8s=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/util/response.py
+SHA1-Digest: 8pbLhdnfWOX0D1YMna5g21r3CWE=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/util/retry.py
+SHA1-Digest: bLZsTUkOPZw6hKagvcZsklB5HjU=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/util/ssl_.py
+SHA1-Digest: Lizyp1egb2LW09bKZp1NHDGw60Q=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/util/ssl_match_hostname.py
+SHA1-Digest: m9lODd2Kv3fwpxnRGgCDaXjI9bg=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/util/ssltransport.py
+SHA1-Digest: y82Lxnl+aiSDGHnR+i5+WdBD4vo=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/util/timeout.py
+SHA1-Digest: uLKTbNaGNAjZls7l66S6bPpOl50=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/util/url.py
+SHA1-Digest: TKL/9Bb3iT1mLiV6bh5wkFJFRaw=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/util/util.py
+SHA1-Digest: rHpXnOfjfOi/IV+Xub+4CxSbD2g=
+
+Name: data/data/com.termux/files/home/LunaLibrary/internal_core/urllib
+ 3/util/wait.py
+SHA1-Digest: uP+1EmqwUqh5jwPvt7w9jBvWg3o=
+
+Name: data/data/com.termux/files/home/LunaLibrary/luna_memory.json
+SHA1-Digest: XahcPJ3oCyDzZHtpMyQlmPPSw8Q=
+
+Name: data/data/com.termux/files/home/LunaLibrary/main.py
+SHA1-Digest: DLkZKpA47KMIs8V0a/KGZCygBr8=
+
+Name: data/data/com.termux/files/home/LunaLibrary/modules/__init__.py
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: data/data/com.termux/files/home/LunaLibrary/modules/__pycache__/
+ __init__.cpython-312.pyc
+SHA1-Digest: HGbaIPET9yqsjTFQ0o5yp4rC3tQ=
+
+Name: data/data/com.termux/files/home/LunaLibrary/modules/__pycache__/
+ engine.cpython-312.pyc
+SHA1-Digest: JzOlpS1Zfq5GDpGtdWyy5gTuzCY=
+
+Name: data/data/com.termux/files/home/LunaLibrary/modules/__pycache__/
+ utils.cpython-312.pyc
+SHA1-Digest: kGKCaOAevs/H25pWZwFGwfD3AJE=
+
+Name: data/data/com.termux/files/home/LunaLibrary/modules/engine.py
+SHA1-Digest: ILXYhZyICUcnJxRZXG2drRyQ+W4=
+
+Name: data/data/com.termux/files/home/LunaLibrary/modules/utils.py
+SHA1-Digest: 5LB1OxmTy6EtltpuEYH8882FpZE=
+
+Name: data/data/com.termux/files/home/LunaLibrary/output/luna_output.t
+ xt
+SHA1-Digest: dH9oTQk64jg9qG7IOEGjNPNgDO8=
+
+Name: data/data/com.termux/files/home/LunaLibrary/run_core.sh
+SHA1-Digest: GY4U0NDNSfUBqsYkhx1wE56ChiI=
+
+Name: data/data/com.termux/files/home/LunaLibrary/run_luna_master.py
+SHA1-Digest: unvJAWkaXP4a6k2ymdUMs4XHJvw=
+
+Name: data/data/com.termux/files/home/LunaLibrary/templates/blank_temp
+ late.txt
+SHA1-Digest: wL4UcOhUZ01Pj/tV8PTT0nKICbo=
+
+Name: data/data/com.termux/files/home/LunaLibrary/venv/bin/python
+SHA1-Digest: f2mQdpYDZ8i3O1Vs/KlMvCPcvx8=
+
+Name: data/data/com.termux/files/home/LunaLibrary/venv/bin/python3
+SHA1-Digest: f2mQdpYDZ8i3O1Vs/KlMvCPcvx8=
+
+Name: data/data/com.termux/files/home/LunaLibrary/venv/bin/python3.12
+SHA1-Digest: f2mQdpYDZ8i3O1Vs/KlMvCPcvx8=
+
+Name: data/data/com.termux/files/home/LunaLibrary/venv/pyvenv.cfg
+SHA1-Digest: O6UkrcNINAFvAj8mEWd4ddvUW5k=
+
+Name: res/02.xml
+SHA1-Digest: 5lGm1OFpVY8oqsF9J0KP28THWAY=
+
+Name: res/3z.png
+SHA1-Digest: PJ4eYQ313YFbl0pvaABlvMPjKcc=
+
+Name: res/4j.xml
+SHA1-Digest: Ghwu4WYnvchcr02+4VjZHTULKWo=
+
+Name: res/6h.png
+SHA1-Digest: lbD3HiqgAw788bLn08s5kcgKJWc=
+
+Name: res/9w.png
+SHA1-Digest: K8Z9QtBPTx2BhnIDQ0Q0QO983jY=
+
+Name: res/BW.xml
+SHA1-Digest: xUPxGpLHO+Awk0aWi7jOqExz6EE=
+
+Name: res/Em.png
+SHA1-Digest: AFBrq5iEvqdWlijbH/QHSJQ5EDw=
+
+Name: res/FS.png
+SHA1-Digest: rM1iemtjg86OxR4dfZw8jz/laEE=
+
+Name: res/Gx.png
+SHA1-Digest: vRe8hZHQemKh78GT2dYvhR33xFE=
+
+Name: res/I2.png
+SHA1-Digest: VwG+ZuwOvxkpVvhZegn2P7XdQvI=
+
+Name: res/Lf.png
+SHA1-Digest: EnCDGeVeYWBo/yzVGCK94nR2JMU=
+
+Name: res/Me.png
+SHA1-Digest: jXI66/rSTINB/+PGWsoMvaSVj80=
+
+Name: res/QZ.png
+SHA1-Digest: jXI66/rSTINB/+PGWsoMvaSVj80=
+
+Name: res/Qq.xml
+SHA1-Digest: wZS7ZejPa7sQA3SlAaIYaZNmCdk=
+
+Name: res/RJ.png
+SHA1-Digest: 5RDFfEV/j2COiUFdt0Zl0oz9Wk4=
+
+Name: res/UD.xml
+SHA1-Digest: WaUMlEyzN77NyqaCzg2+tHDzg5k=
+
+Name: res/Ul.png
+SHA1-Digest: AFBrq5iEvqdWlijbH/QHSJQ5EDw=
+
+Name: res/Yt.png
+SHA1-Digest: cLCynO8J2p/VLAQL88VDGUVZE0Q=
+
+Name: res/_q.png
+SHA1-Digest: Zy2OfHioyLTGL9KK4yot2v+jM7Q=
+
+Name: res/as.png
+SHA1-Digest: Zy2OfHioyLTGL9KK4yot2v+jM7Q=
+
+Name: res/cV.png
+SHA1-Digest: KCHCh0aL41IdzFvBjowZSdnkubU=
+
+Name: res/mU.png
+SHA1-Digest: EnCDGeVeYWBo/yzVGCK94nR2JMU=
+
+Name: res/o-.png
+SHA1-Digest: OqdRZunzh8uX4GX3OvX6pQcP88U=
+
+Name: res/v9.xml
+SHA1-Digest: ycfSjuy7u8Al8WN7SczWFlWSncM=
+
+Name: res/yn.png
+SHA1-Digest: VvXARZwV8I7xGPch2twea4/SB7Y=
+
+Name: res/zr.png
+SHA1-Digest: cLCynO8J2p/VLAQL88VDGUVZE0Q=
+
+Name: resources.arsc
+SHA1-Digest: YZqf8wCSvMjMnSkpIEHG/afDaVI=
+
