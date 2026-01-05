@@ -1,0 +1,36 @@
+name: Build Luna APK
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          sudo apt update
+          sudo apt install -y python3-pip git zip unzip openjdk-17 zlib1g-dev
+          pip install --upgrade pip
+          pip install buildozer
+
+      - name: Build APK
+        run: |
+          cd export
+          buildozer android debug
+
+      - name: Upload APK
+        uses: actions/upload-artifact@v3
+        with:
+          name: luna-apk
+          path: export/.buildozer/android/app/build/outputs/apk/debug/*.apk
